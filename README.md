@@ -8,8 +8,6 @@ This project is a responsive personal portfolio website developed using **HTML, 
 
 The portfolio presents personal, academic, and technical details in a structured and visually consistent manner. The implementation follows a **mobile-first approach** and aligns with industry-level front-end development standards.
 
----
-
 ## 🎯 Project Objectives
 
 * Implement advanced CSS layout techniques
@@ -18,8 +16,6 @@ The portfolio presents personal, academic, and technical details in a structured
 * Follow professional project structure and documentation practices
 * Fulfill all Week-5 internship task requirements
 
----
-
 ## 🛠️ Technologies Used
 
 * **HTML5** – Semantic structure
@@ -27,8 +23,6 @@ The portfolio presents personal, academic, and technical details in a structured
 * **JavaScript** – UI interactions and theme handling
 
 No external frameworks or libraries were used.
-
----
 
 ## 📂 Project Structure
 
@@ -44,8 +38,6 @@ screenshots/
 README.md
 ```
 
----
-
 ## 🚀 Advanced CSS Implementation
 
 * **CSS Grid** used for main page layout and section structuring
@@ -55,15 +47,11 @@ README.md
 * **Advanced Selectors & Pseudo-elements** used for hover and focus states
 * **BEM Methodology** followed for clean and maintainable CSS
 
----
-
 ## 📱 Responsive Design
 
 * Mobile-first approach
 * Adaptive layout for different screen sizes
 * Cross-device compatibility ensured
-
----
 
 ## ⚡ Performance Optimizations
 
@@ -71,8 +59,6 @@ README.md
 * Optimized animations using transform and opacity
 * Minimal JavaScript usage
 * Lightweight static front-end architecture
-
----
 
 ## 🧪 Testing Evidence
 
@@ -88,8 +74,6 @@ The project was tested manually to ensure functionality and responsiveness.
 
 All tests passed successfully without errors.
 
----
-
 ## 🖥️ How to Run the Project Locally
 
 1. Download or clone the repository
@@ -99,20 +83,9 @@ All tests passed successfully without errors.
 **Optional:**
 Use VS Code with the *Live Server* extension for real-time preview.
 
----
-
-## 🌐 Live Deployment
-
-The project can be deployed using **GitHub Pages** for live access.
-
----
-
 ## 📸 Visual Documentation
 
 Screenshots demonstrating layout, responsiveness, and UI behavior are available in the `screenshots/` folder.
-
----
-
 ## ✅ Completion Status
 
 This project has been completed in full compliance with the **Week-5 Internship Task requirements**. It demonstrates professional front-end development practices and is suitable for academic, internship, and portfolio evaluation.
